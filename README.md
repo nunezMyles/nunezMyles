@@ -1,4 +1,4 @@
-### 👋 take 1 while you're here -> 🍿🍿
+### 👋 take one while you're here -> 🍿🍿
 
 ---
 <p align = "center">
