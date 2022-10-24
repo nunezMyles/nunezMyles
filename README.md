@@ -1,4 +1,4 @@
-### Hi there 🧀
+### Yo 👋, take a bite -> 🧀
 
 ---
 <p align = "center">
