@@ -2,8 +2,8 @@
 
 ---
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=nunezMyles&show_icons=true&theme=monokai" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=nunezMyles&theme=monokai&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=nunezMyles&show_icons=true&theme=blood-dark" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=nunezMyles&theme=blood-dark&hide_border=true" width = 400>
 </p>
 
 <!--
