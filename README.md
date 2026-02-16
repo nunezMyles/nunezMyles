@@ -1,11 +1,8 @@
-### 🍿
+### print("Hello world")🍿
 
 ---
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=nunezMyles&show_icons=true&theme=tokyonight&hide_border=true" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=nunezMyles&theme=tokyonight&hide_border=true" width = 400>
-  <img src = "https://activity-graph.herokuapp.com/graph?username=nunezMyles&theme=react-dark" width = 590>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nunezMyles&langs_count=7&theme=react" width = 300>
 </p>
 
 <!--
