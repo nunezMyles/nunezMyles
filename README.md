@@ -1,8 +1,8 @@
-### print("Hello world")🍿
+### hello world🍿
 
 ---
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=nunezMyles&theme=tokyonight&hide_border=true" width = 400>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nunezMyles&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 <!--
